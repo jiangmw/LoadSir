@@ -1,6 +1,8 @@
 package com.kingja.loadsir.core;
 
 
+import android.support.annotation.NonNull;
+
 import com.kingja.loadsir.LoadSirUtil;
 import com.kingja.loadsir.callback.Callback;
 import com.kingja.loadsir.target.ActivityTarget;
@@ -10,7 +12,6 @@ import com.kingja.loadsir.target.ViewTarget;
 import java.util.ArrayList;
 import java.util.List;
 
-import androidx.annotation.NonNull;
 
 /**
  * Description:TODO
